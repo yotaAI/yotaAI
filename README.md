@@ -15,7 +15,7 @@ I am currently working with Samsung R&D Institute in Bangalore. My work there in
   <a href="https://github.com/yotaAI" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.kaggle.com/pankajdebroy" target="_blank">
+  <a href="https://www.kaggle.com/yotaai" target="_blank">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="mailto:yota.aiml@gmail.com">
