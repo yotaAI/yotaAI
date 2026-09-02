@@ -55,7 +55,7 @@ My passion lies in building intelligent systems that solve real-world problems.
 
 ### 🚀 My Journey So Far:
 
--   **Senior AI/ML Engineer @ Samsung** | Bangalore, India (Jan 2026 - Present)
+-   **Senior Data Scientist @ DELL** | Bangalore, India (Jan 2026 - Present)
     - Optimized the feature space for tree-based machine learning models using statistical diagnostics, feature selection techniques such as RFE, L1 regularization, Boruta, SHAP-based selection, and regularized trees, along with dimensionality reduction. Removed noisy and redundant features while retaining high-impact variables, reducing training cost and inference latency without compromising predictive accuracy.
 
     - Improved tree-based models for pricing discount prediction through iterative model validation, performance benchmarking, hyperparameter tuning, and feature importance analysis. Implemented forced-split feature engineering and serial feature-splitting logic to prioritize business-critical attributes at upper tree levels before recursive branching, improving model performance, stability, interpretability, and forecasting reliability.
