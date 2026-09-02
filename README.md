@@ -2,8 +2,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yotaAI&color=blue&style=flat-square)](https://github.com/yotaAI/)
 
-👋 Hi! I'm Pankaj, a Machine Learning Engineer specialising in Natural Language Processing(NLP) specially on Large Language Models (LLMs). My core interest lies in Efficient Fine-tuning / Training LLMs on large context size.
-I am currently working with Samsung R&D Institute in Bangalore. My work there involves Training LLM Reward Models for Response Classification within extensive context lengths. My passion lies in building intelligent systems that solve real-world problems.
+👋 Hi! I'm Pankaj, a Machine Learning Engineer specialising in Classical ML. My core interest lies in understanding the architecture of different Machine Learning models.
+I am currently working with DELL Technologies. My work there involves Training Classical ML Models to predict discounts of DELL Products for the customers. My passion lies in building intelligent systems that solve real-world problems.
 
 ---
 
@@ -54,7 +54,14 @@ I am currently working with Samsung R&D Institute in Bangalore. My work there in
 
 ### 🚀 My Journey So Far:
 
--   **Senior AI/ML Engineer @ Samsung** | Bangalore, India (Oct 2022 - Present)
+-   **Senior AI/ML Engineer @ Samsung** | Bangalore, India (Jan 2026 - Present)
+    - Optimized the feature space for tree-based machine learning models using statistical diagnostics, feature selection techniques such as RFE, L1 regularization, Boruta, SHAP-based selection, and regularized trees, along with dimensionality reduction. Removed noisy and redundant features while retaining high-impact variables, reducing training cost and inference latency without compromising predictive accuracy.
+
+    - Improved tree-based models for pricing discount prediction through iterative model validation, performance benchmarking, hyperparameter tuning, and feature importance analysis. Implemented forced-split feature engineering and serial feature-splitting logic to prioritize business-critical attributes at upper tree levels before recursive branching, improving model performance, stability, interpretability, and forecasting reliability.
+
+    - Analyzed model outputs and key feature drivers to support explainable AI and translate predictive insights into actionable pricing strategies. Collaborated with pricing and analytics stakeholders to align machine learning recommendations with business objectives and develop reliable decision-support frameworks for discount optimization.
+
+-   **Senior AI/ML Engineer @ Samsung** | Bangalore, India (Oct 2022 - Jan 2026)
     -  Advanced Code Generation: I successfully Instruct Fine-tuned a Qwen-32B model on a large context size (≈8K) for advanced Code Generation. This involved implementing sophisticated Reward Architectures (RLHF, DPO) to align the model with human preferences, utilizing DeepSpeed for efficient multi-GPU parallelization on a large-scale training setup.
 
     -  Parameter-Efficient Fine-Tuning (PEFT): I applied LoRA and QLoRA techniques to adapt a LLAMA:2B model for proprietary Samsung use-cases, including health monitoring and next-line prediction for the Samsung keyboard, achieving a robust 96% accuracy rate.
