@@ -101,12 +101,3 @@ I am currently working with DELL Technologies. My work there involves Training C
 -   Best Team Award (From TCS).
 
 ---
-
-### 📊 GitHub Statistics:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yotaAI&show_icons=true&theme=tokyonight&rank_icon=github" alt="yotaAI's GitHub Stats"/>
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yotaAI&layout=compact&theme=tokyonight" alt="yotaAI's Top Languages"/>
-</p>
