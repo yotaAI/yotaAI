@@ -2,8 +2,9 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yotaAI&color=blue&style=flat-square)](https://github.com/yotaAI/)
 
-👋 Hi! I'm Pankaj, a Machine Learning Engineer specialising in Classical ML. My core interest lies in understanding the architecture of different Machine Learning models.
-I am currently working with DELL Technologies. My work there involves Training Classical ML Models to predict discounts of DELL Products for the customers. My passion lies in building intelligent systems that solve real-world problems.
+👋 Hi! I'm Pankaj, a ***Senior Machine Learning Engineer*** specialising in ***Classical ML*** with **5+ YOE**. I’m passionate about understanding the architecture and behavior of different ML models and applying them to solve real-world business problems. 
+I am currently working with DELL Technologies. My work there involves in development and optimization of Classical ML models for product discount prediction and data-driven pricing decisions.
+My passion lies in building intelligent systems that solve real-world problems.
 
 ---
 
